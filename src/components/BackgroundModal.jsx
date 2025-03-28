@@ -18,7 +18,7 @@ export default function BackgroundModal({ open, onClose }) {
           </DialogTitle>
         </DialogHeader>
         <div className="mt-4">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div className="grid grid-cols-1 md:grid-cols-1 gap-4">
             {/* Left Column: Text */}
             <div className="space-y-4 text-gray-700">
               <p>
@@ -37,7 +37,7 @@ export default function BackgroundModal({ open, onClose }) {
               </p>
             </div>
             {/* Right Column: Images */}
-            <div className="flex flex-col gap-4">
+            {/* <div className="flex flex-col gap-4">
               <img
                 src="https://via.placeholder.com/300"
                 alt="Background Image 1"
@@ -48,7 +48,7 @@ export default function BackgroundModal({ open, onClose }) {
                 alt="Background Image 2"
                 className="w-full rounded-lg"
               />
-            </div>
+            </div> */}
           </div>
           <div className="mt-4 text-gray-700">
             <p>
