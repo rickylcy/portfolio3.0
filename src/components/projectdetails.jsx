@@ -25,9 +25,6 @@ export default function ProjectDetails({
       <DialogContent className="max-w-3xl w-[90%] md:w-[70%] max-h-[90vh] overflow-y-auto p-6 rounded-lg shadow-lg">
         <div className="flex justify-between items-center mb-4">
           <DialogTitle className="text-2xl font-bold">{title}</DialogTitle>
-          <Button variant="outline" onClick={onClose} className="p-1">
-            <X className="h-5 w-5" />
-          </Button>
         </div>
         <p className="mb-2 text-sm text-gray-600">Status: {status}</p>
         <p className="mb-4 text-sm text-gray-600">

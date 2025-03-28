@@ -172,7 +172,7 @@ export default function Portfolio() {
       screenshots: ["/anyportal-1.png", "/anyportal-2.png"],
     },
     {
-      title: "Portfolio (This site)",
+      title: "Portfolio v2.0",
       category: ["Web", "Mobile-Web", "Responsive", "Self-Learning"],
       description: "Portfolio for demo",
       image: "https://via.placeholder.com/150",
