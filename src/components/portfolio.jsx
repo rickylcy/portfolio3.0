@@ -79,7 +79,7 @@ export default function Portfolio() {
       title: "Sales Report Website",
       category: ["Web", "Mobile-Web", "Responsive"],
       description: "Company Product",
-      image: "https://via.placeholder.com/150",
+      image: "/sales-report.jpg",
       demoLink: "",
       status: "Completed",
       introduction:
@@ -103,7 +103,7 @@ export default function Portfolio() {
       title: "2D Barcode Mobile Ordering",
       category: ["Mobile-Web"],
       description: "Company Product",
-      image: "https://via.placeholder.com/150",
+      image: "/mobile-ordering.jpg",
       demoLink: "",
       status: "In Testing Stage",
       introduction:
@@ -140,7 +140,7 @@ export default function Portfolio() {
       title: "Realtime Chat App",
       category: ["Web", "Mobile-Web", "Responsive", "Self-Learning"],
       description: "Responsive Chat App with Firebase",
-      image: "https://via.placeholder.com/150",
+      image: "/chat-app.png",
       demoLink: "https://ricky-chat-app.vercel.app/",
       status: "Completed",
       introduction:
@@ -175,7 +175,7 @@ export default function Portfolio() {
       title: "Portfolio v2.0",
       category: ["Web", "Mobile-Web", "Responsive", "Self-Learning"],
       description: "Portfolio for demo",
-      image: "https://via.placeholder.com/150",
+      image: "/portfolio.png",
       demoLink: "https://portfolio2024-ricky.vercel.app/",
       status: "In Progress",
       introduction: "A personal portfolio site showcasing projects and skills.",
